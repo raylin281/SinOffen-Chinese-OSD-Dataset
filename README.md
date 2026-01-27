@@ -29,6 +29,8 @@ Approved requests will receive a download link via email.
 - Research and educational use only
 - No redistribution
 
+---
+
 ## 📌 Dataset Overview
 
 - **Language:** Chinese (Standard Mandarin)  
@@ -79,6 +81,8 @@ coarse_label: Non-OS / Explicit OS / Implicit OS
 implicit_labels: list of fine-grained labels (multi-label)  
 root_comment_id: root context id  
 need_context: whether context is required (0/1)  
+
+---
 
 ## 🤖 Pretrained Langugae Models
 
