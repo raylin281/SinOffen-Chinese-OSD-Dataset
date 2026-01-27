@@ -11,6 +11,24 @@ Paper: *SinOffen: A Fine-grained Chinese Dataset for Explicit and Implicit Offen
 
 ---
 
+## ⚠️ Data Access
+
+The SinOffen dataset contains offensive and sensitive language.  
+To ensure responsible use, the full dataset is released under a controlled access policy.
+
+### Request Access
+
+Please complete the following form to request access to the dataset:
+
+👉 **Google Form:** https://forms.gle/8rPKJF36exeU3nNE9
+
+Approved requests will receive a download link via email.
+
+### Usage Terms
+
+- Research and educational use only
+- No redistribution
+
 ## 📌 Dataset Overview
 
 - **Language:** Chinese (Standard Mandarin)  
