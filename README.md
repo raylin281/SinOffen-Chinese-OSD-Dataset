@@ -22,7 +22,7 @@ Please complete the following form to request access to the dataset:
 
 👉 **Google Form:** https://forms.gle/8rPKJF36exeU3nNE9
 
-Approved requests will receive a download link via email.
+Approved requests will receive a download link.
 
 ### Usage Terms
 
