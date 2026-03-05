@@ -92,16 +92,20 @@ Several Chinese-adapted pretrained language models (PLMs) suitable for offensive
 ## 📄 Publication
 
 "Border of Speech: A Benchmark for Understanding Chinese Offensive Speech"
+
 IEEE Transactions on Computational Social Systems, 2026.
 
 If you find this work useful, please cite:
 
 @article{sinoffen,
-  author={Yulin Lei, Jin Yang, Yufei Mu, Huijia Liang, Dongqing Jia},
-  journal={IEEE Transactions on Computational Social Systems},
-  title={Border of Speech: A Benchmark for Understanding Chinese Offensive Speech},
-  year={2026}
+  author  = {Yulin Lei, Jin Yang, Yufei Mu, Huijia Liang, Dongqing Jia},
+  title   = {Border of Speech: A Benchmark for Understanding Chinese Offensive Speech},
+  journal = {IEEE Transactions on Computational Social Systems},
+  year    = {2026},
+  volume  = {},
+  number  = {},
+  pages   = {},
+  doi     = {}
 }
 
 ---
-
