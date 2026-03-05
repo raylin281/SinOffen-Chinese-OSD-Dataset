@@ -7,7 +7,6 @@
 **SinOffen** is a large-scale Chinese offensive speech dataset designed to support research on both **explicit and implicit offensive language**, with a particular emphasis on nuanced and fine-grained implicit strategies common in Chinese internet discourse.
 
 This repository hosts the dataset and utilities for benchmarking and analysis. 
-Paper: *SinOffen: A Fine-grained Chinese Dataset for Explicit and Implicit Offensive Speech Detection*.
 
 ---
 
@@ -87,3 +86,22 @@ need_context: whether context is required (0/1)
 ## 🤖 Pretrained Langugae Models
 
 Several Chinese-adapted pretrained language models (PLMs) suitable for offensive speech detection are available on HuggingFace 👉 https://huggingface.co/Yulinn/SinOffen-CN-PLMs. 
+
+---
+
+## 📄 Publication
+
+"Border of Speech: A Benchmark for Understanding Chinese Offensive Speech"
+IEEE Transactions on Computational Social Systems, 2026.
+
+If you find this work useful, please cite:
+
+@article{sinoffen,
+  author={Yulin Lei, Jin Yang, Yufei Mu, Huijia Liang, Dongqing Jia},
+  journal={IEEE Transactions on Computational Social Systems},
+  title={Border of Speech: A Benchmark for Understanding Chinese Offensive Speech},
+  year={2026}
+}
+
+---
+
