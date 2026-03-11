@@ -99,10 +99,13 @@ If you find this work useful, please cite:
 
 ```bibtex
 @article{sinoffen,
-  author  = {Yulin Lei, Jin Yang, Yufei Mu, Huijia Liang, Dongqing Jia},
-  title   = {Border of Speech: A Benchmark for Understanding Chinese Offensive Speech},
-  journal = {IEEE Transactions on Computational Social Systems},
-  year    = {2026},
-}
+  author={Lei, Yulin and Yang, Jin and Mu, Yufei and Liang, Huijia and Jia, Dongqing},
+  journal={IEEE Transactions on Computational Social Systems}, 
+  title={Border of Speech: A Benchmark for Understanding Chinese Offensive Speech}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TCSS.2026.3668363}}
 ```
 ---
