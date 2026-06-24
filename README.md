@@ -103,9 +103,9 @@ If you find this work useful, please cite:
   journal={IEEE Transactions on Computational Social Systems}, 
   title={Border of Speech: A Benchmark for Understanding Chinese Offensive Speech}, 
   year={2026},
-  volume={},
-  number={},
-  pages={1-13},
+  volume={13},
+  issue={3},
+  pages={3235-3247},
   doi={10.1109/TCSS.2026.3668363}}
 ```
 ---
